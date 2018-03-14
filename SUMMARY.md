@@ -1,6 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Elixir](elixir.md)
-* [Phoenix](phoenix.md)
+* [ElixirPhoenix](elixir-phoenix.md)
 
