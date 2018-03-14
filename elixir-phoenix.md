@@ -1,21 +1,19 @@
-## Elixir 文档
-1. [Elixir语法总结1](https://elixir-examples.github.io/single-page)
-2. [Elixir语法总结2](https://elixir-examples.github.io/single-page%29)
+## Elixir 教程
+1. [Elixir School](https://elixirschool.com/cn/lessons/basics/basics/)
+2. [ElixirCasts](https://elixircasts.io/)
+3. [Elixir语法总结](https://elixir-examples.github.io/single-page)
+4. [Elixir中文入门教程](http://bastengao.com/ElixrGettingStarte'''dChinese/index.html)
 
-
-1. [Elixir中文入门教程1](http://bastengao.com/ElixrGettingStarte'''dChinese/index.html)
-2. [Elixir中文入门教程2](http://bastengao.com/ElixrGettingStartedChinese/index.html%29)
-
-## Elixir 基础
+## Elixir 知识点
 1. [Elixir: use, import, 和 require讲解](https://segmentfault.com/a/1190000004514268)
 2. [Elixir 的 import, alias, require和use讲解](https://www.jianshu.com/p/0d2e4f2108cf)
 
 
 1. [Behaviour讲解](http://www.cnblogs.com/zhongwencool/p/elixir_behaviour.html)
 
-
 ## Blogs
 1. [chris-mccord](https://dockyard.com/blog/authors/chris-mccord)
+2. [Tony](http://tony612.com/)
 
 ## Elixir 项目
 1. [10大项目]([https://medium.com/aviabird/10-amazing-open-source-elixir-phoenix-apps-e2c52ee25053)
