@@ -26,6 +26,7 @@
 ## 同步&异步
 1. [Elixir Supervision Tree 策略可视化](https://www.jianshu.com/p/742f9d83fbdb)
 2. [Elixir 高可用系列](http://www.voidcn.com/article/p-oklgipfd-bow.html)
+> GenAgent GenServer GenEvent
 
 ## 传输
 1. [Websocket channel](https://zorbash.com/post/phoenix-websockets-under-a-microscope)
@@ -37,7 +38,7 @@
 3. [Phoenix render json 数据](https://segmentfault.com/q/1010000012641076)
 4. [Phoenix可复用模板](https://www.jianshu.com/p/d98330e24f05)
 
-## background job
+## Background job
 1. [sidekiq exq  tasks  genserver toniq verk](https://medium.com/@cschneid/background-jobs-in-elixir-phoenix-60dddf4ce207)
 
 ## Phoenix 语言国际化
@@ -55,7 +56,7 @@
 8. [Ecto](http://www.cnblogs.com/wang_yb/p/7897066.html)
 9. [Phoenix应用使用Ecto连接多个数据库
 ](https://www.jianshu.com/p/a66c47145dab)
-## phoenix hex
+## Phoenix hex
 1. [Markdown: earmark](http://www.sebastianseilund.com/static-markdown-blog-posts-with-elixir-phoenix)
 
 ## 功能实现
