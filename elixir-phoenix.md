@@ -20,7 +20,7 @@
 2. [Elixir项目介绍 — Evercam.io](https://www.jianshu.com/p/e16dedc8f9ef)
 
 ## 性能
-1. [使用并行化策略将Elixir后端服务从120ms降至20ms]([https://www.jianshu.com/p/aa911f94fbb0)
+1. [使用并行化策略将Elixir后端服务从120ms降至20ms](https://www.jianshu.com/p/aa911f94fbb0)
 2. [Benchee](https://elixircasts.io/benchmarking-with-benchee)
 
 ## 同步&异步
@@ -70,8 +70,11 @@
 2. [Phoenix 多子域名应用](https://www.jianshu.com/p/0bc7c24d8dc7)
 
 ## 工具
-1. [配置zsh](https://github.com/gusaiani/elixir-oh-my-zsh/blob/master/README.md)
+1. [配置zsh](https://github.com/gusaiani/elixir-oh-my-zsh/blob/master/README.mVx)
 
 ## 调试
-1. [IEx](https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11)
+1. [IEx](https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d1idsd|}j1a})
 
+
+## 坑
+1. [halt使用](https://stackoverflow.com/questions/38589801/halt-plug-conn-halt-1-does-not-stop-the-call-chain-after-a-redirect-in-contr)
